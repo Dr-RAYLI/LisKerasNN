@@ -12,7 +12,7 @@ This package uses Keras as framework which provides a high-level neural networks
 Information:
 - Package: LisKerasNN
 - Type: Package
-- Title: Yin's Version of Neural Network through Keras Framework
+- Title: Li's Version of Neural Network through Keras Framework
 - Version: 0.1.0
 - Author: Ray Li
 - Maintainer: Ray Li <eagle0504@gmail.com>
@@ -73,7 +73,7 @@ An example usage of this package can refer to the following.
 ########################## START SCRIPT ###########################
 
 # ACKNOWLEDGEMENT:
-# In this script, let us (1) create a toy data set, and (2) run Yin's version of Keras Neural Network.
+# In this script, let us (1) create a toy data set, and (2) run Li's version of Keras Neural Network.
 # COPYRIGHT @ Ray Li
 
 # README:
