@@ -1,9 +1,9 @@
-Package: YinsKerasNN
+Package: LisKerasNN
 Type: Package
-Title: Yin's Version of Neural Network through Keras Framework
+Title: Li's Version of Neural Network through Keras Framework
 Version: 0.1.0
-Author: Yiqiao Yin
-Maintainer: Yiqiao Yin <eagle0504@gmail.com>
+Author: RayLi
+Maintainer: RayLi <2305191gmail.com>
 Description: This package uses Keras as framework which provides a high-level neural networks API developed with a focus on enabling fast experimentation.
 License: GPL-2
 imports: quantmod,stats,xts,TTR,knitr,keras
