@@ -41,7 +41,7 @@ library(keras)
 install_keras()
 
 # Install Packge using devtools from below
-devtools::install_github("yiqiao-yin/YinsKerasNN")
+devtools::install_github("Dr-RAYLI/LisKerasNN")
 ```
 
 ### Usage
