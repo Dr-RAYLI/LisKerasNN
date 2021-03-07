@@ -1,12 +1,12 @@
-#' @title Yin's Version of Neural Network through Keras Framework
+#' @title Li's Version of Neural Network through Keras Framework
 #' @description This package uses Keras as framework which provides a high-level neural networks API developed with a focus on enabling fast experimentation.
 #' @param symbol
 #' @return NULL
 #' @examples
-#' @export YinsKerasNN
+#' @export LisKerasNN
 #'
 #' # Define function
-YinsKerasNN <- function(
+LisKerasNN <- function(
   x = x,
   y = y,
   cutoff = .9,
