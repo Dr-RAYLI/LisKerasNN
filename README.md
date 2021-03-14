@@ -15,7 +15,7 @@ Information:
 - Title: Li's Version of Neural Network through Keras Framework
 - Version: 0.1.0
 - Author: Ray Li
-- Maintainer: Ray Li <eagle0504@gmail.com>
+- Maintainer: Ray Li <2635199110li@gmail.com>
 - Description: This package uses Keras as framework which provides a high-level neural networks API developed with a focus on enabling fast experimentation.
 - License: GPL-2 [What is GPL-2?](http://r-pkgs.had.co.nz/description.html#license)
 - imports: quantmod,stats,xts,TTR,knitr,keras
